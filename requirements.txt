@@ -1,0 +1,5 @@
+-e git+https://github.com/Ruairi-osul/ephys_queries.git@982c2c4a279cfb4f9dd1f263096d25df8e8a354d#egg=ephys_queries
+-e git+https://github.com/Ruairi-osul/spiketimes.git@0f3334bf2a37fe035a86050333b5b868d58dde35#egg=siketimes
+python-dotenv>=0.10.3
+jupyter>=1.0.0
+pyarrow>=0.15.1
