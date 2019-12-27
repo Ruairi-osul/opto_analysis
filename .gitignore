@@ -3,3 +3,6 @@ venv
 *.feather
 *.ipynb*
 *.Rhistory
+*.egg*
+.vscode
+__pycache__
