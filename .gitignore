@@ -1,8 +1,8 @@
 venv
 *.png
 *.feather
-*.ipynb*
 *.Rhistory
 *.egg*
 .vscode
 __pycache__
+*ipynb_*
