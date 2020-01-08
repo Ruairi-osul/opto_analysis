@@ -1,5 +1,4 @@
 venv
-*.png
 *.feather
 *.Rhistory
 *.egg*
